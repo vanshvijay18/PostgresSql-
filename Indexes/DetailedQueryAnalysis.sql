@@ -1,0 +1,4 @@
+EXPLAIN ANALYZE
+SELECT *
+FROM employee
+WHERE salary = 60000;
